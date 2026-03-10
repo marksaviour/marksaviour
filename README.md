@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Mark 👋
-### An IT & Cybersecurity Student
+### IT & Cybersecurity Student
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://marksaviour.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marksaviour)
