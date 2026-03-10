@@ -5,7 +5,7 @@
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://marksaviour.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marksaviour/)
-[![Vizzy](https://img.shields.io/badge/Vizzy-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgMTloMjBMMTIgMnptMCAzLjVMMTguNSAxOEg1LjVMMTIgNS41eiIvPjwvc3ZnPg==&logoColor=white)](https://vizzy.com/@marksaviour)
+[![Vizzy](https://img.shields.io/badge/Vizzy-FF6B6B?style=for-the-badge&logo=v&logoColor=white)](https://vizzy.com/@marksaviour)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:marksaviourfarrugia@proton.me)
 
 </div>
@@ -46,7 +46,7 @@
 **Platforms**
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
