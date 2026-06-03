@@ -14,8 +14,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 MSc Cybersecurity student at **King's College London**
-- 📜 BSc Cybersecurity graduate — **First Class Honours** — University of Wolverhampton
+- 🎓 MSc Cybersecurity student — **King's College London**
+- 📜 BSc (Hons) in Cybersecurity — **First Class Honours** — **University of Wolverhampton**
 - 🔬 Currently working on my thesis: **Post-Quantum Signal — PQXDH**
 - 🛡️ Interested in Network Security, Cryptography, and Ethical Hacking
 - 🌍 Based in London but from Malta
