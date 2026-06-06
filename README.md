@@ -52,11 +52,11 @@
 
 ### 📊 My GitHub Stats
 
-_<!-- <div align="center">
+<div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marksaviour&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
-</div> -->_
+</div>
 
 ---
 
