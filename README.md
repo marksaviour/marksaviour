@@ -1,11 +1,10 @@
 <div align="center">
 
 # Hi, I'm Mark 👋
-### IT & Cybersecurity Student
+### Cybersecurity Student @ KCL
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://marksaviour.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marksaviour)
-[![Vizzy](https://img.shields.io/badge/Vizzy-FF6B6B?style=for-the-badge&logo=v&logoColor=white)](https://vizzy.com/@marksaviour)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:marksaviourfarrugia@proton.me)
 
 </div>
@@ -53,11 +52,11 @@
 
 ### 📊 My GitHub Stats
 
-<!-- <div align="center">
+_<!-- <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marksaviour&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
-</div> -->
+</div> -->_
 
 ---
 
