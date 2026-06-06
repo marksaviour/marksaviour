@@ -17,7 +17,7 @@
 - 📜 BSc (Hons) in Cybersecurity — **First Class Honours** — **University of Wolverhampton**
 - 🔬 Currently working on my thesis: **Post-Quantum Signal — PQXDH**
 - 🛡️ Interested in Network Security, Cryptography, and Ethical Hacking
-- 🌍 Based in London but from Malta
+- 🌍 Currently Based in London although from Malta
 
 ---
 
@@ -47,21 +47,3 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 📊 My GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marksaviour&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=marksaviour&color=blueviolet&style=for-the-badge)
-
-</div>
